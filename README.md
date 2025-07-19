@@ -52,7 +52,7 @@ The npm packages use a postinstall script that:
 
 ### All Torch Issues
 
-Please report **all issues** related to Torch CLI here: **[Create an Issue](https://github.com/theaiinc/torch-binaries/issues)**
+Please report **all issues** related to Torch CLI here: **[Create an Issue](https://github.com/theaiinc/torch/issues)**
 
 This includes:
 
